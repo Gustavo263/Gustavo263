@@ -1,4 +1,4 @@
-### Oi, meu nome é Gustavo, estudante de programação! Python and Golang ❤️
+### Oi, meu nome é Gustavo, estudante de programação! Python ❤️
 
 
 <div align="center">
