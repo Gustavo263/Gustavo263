@@ -12,6 +12,8 @@
   <img align="center" alt="Gustta-Go" height="80" width="100" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/go/go-original.svg">
   <img align="center" alt="Gustta-Django" height="80" width="100" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/django/django-original.svg">
   <img align="center" alt="Gustta-Ps" height="80" width="100" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/postgresql/postgresql-original.svg">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+
 </div>
   
   ##
